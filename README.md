@@ -19,32 +19,31 @@ It enables intelligent traffic routing, multi-WAN load balancing, failover mecha
 -  onitoring & Control Layer
 
 ## Technologies Used:
--> Embedded Linux (OpenWrt)
--> C Programming
--> Shell Scripting
--> Network Protocols (TCP/IP, DHCP, DNS)
--> Bits and bytes custom Dashboard
+- Embedded Linux (OpenWrt)
+- C Programming
+- Shell Scripting
+- Network Protocols (TCP/IP, DHCP, DNS)
+- Bits and bytes custom Dashboard
 
-6. Project Structure:
+## Project Structure:
 ├── packages/        # Custom OpenWrt packages
 ├── scripts/         # Automation scripts
 ├── configs/         # Configuration files
 ├── docs/            # Documentation
 └── README.md
 
-7. Installation:
-## Setup Instructions
+## Installation:
 1. Clone the repository
 2. Integrate with OpenWrt build system
 3. Compile firmware
 4. Flash to target device
   
-8. Use Cases:
--> Enterprise branch networking
--> Industrial IOT Connectivity
--> Redundant internet Connections
+## Use Cases:
+- Enterprise branch networking
+- Industrial IOT Connectivity
+- Redundant internet Connections
 
-9. Future Improvements:
--> Cloud-Based centralized control
--> AI-based traffic optimization
--> Advanced analytics dashboard
+## Future Improvements:
+- Cloud-Based centralized control
+- AI-based traffic optimization
+- Advanced analytics dashboard
