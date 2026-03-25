@@ -1,4 +1,4 @@
-1. Project Title
+1. Project Title:
                         SD-WAN
 2. Description:
        This Project implements a Software-Defined Wide Area Network (SD-WAN) solution using OpenWrt-based embedded systems.
