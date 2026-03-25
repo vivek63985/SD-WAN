@@ -70,3 +70,13 @@ This dashboard shows real-time WAN monitoring, system health, and network perfor
 - Customized LuCI web interface and redirected it to a custom web dashboard for enhanced user experience  
 - Developed a real-time dashboard for monitoring system status, WAN performance, and provisioning details  
 - Automated configuration and deployment using shell scripts within the OpenWrt environment  
+
+### Web Interface & UI Integration
+- Customized LuCI web interface and redirected it to a custom web dashboard  
+- Integrated Edge Dashboard UI into OpenWrt filesystem:
+  - `/usr/config` for configuration handling  
+  - `/www` for web interface hosting  
+- Developed a real-time dashboard for monitoring system status, WAN performance, and provisioning details  
+
+### Automation
+- Automated configuration and deployment using shell scripts within the OpenWrt environment  
