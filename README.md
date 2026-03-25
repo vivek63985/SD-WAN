@@ -56,3 +56,17 @@ It enables intelligent traffic routing, multi-WAN load balancing, failover mecha
 ![SD-WAN Dashboard](images/edge-dashboard.png)
 
 This dashboard shows real-time WAN monitoring, system health, and network performance.
+
+## My Contribution
+
+- Built and customized OpenWrt firmware images using the Linux kernel and OpenWrt build system  
+- Configured advanced networking features including bonding and tunneling for multi-WAN environments  
+- Developed custom OpenWrt packages:
+  - bb-db (core database service)
+  - bb-db_ports (port management)
+  - bb-db_tunnels (tunnel configuration and control)
+- Implemented multi-WAN load balancing and failover mechanisms  
+- Integrated WAN health monitoring (latency, jitter, packet loss) for intelligent routing decisions  
+- Customized LuCI web interface and redirected it to a custom web dashboard for enhanced user experience  
+- Developed a real-time dashboard for monitoring system status, WAN performance, and provisioning details  
+- Automated configuration and deployment using shell scripts within the OpenWrt environment  
