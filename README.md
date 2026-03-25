@@ -1,4 +1,4 @@
-1. Project Title:
+## Project Title:
                         SD-WAN
 ## Description:
 This Project implements a Software-Defined Wide Area Network (SD-WAN) solution using OpenWrt-based embedded systems.
@@ -47,3 +47,12 @@ It enables intelligent traffic routing, multi-WAN load balancing, failover mecha
 - Cloud-Based centralized control
 - AI-based traffic optimization
 - Advanced analytics dashboard
+
+
+
+
+## Dashboard Preview
+
+![SD-WAN Dashboard](images/edge-dashboard.png)
+
+This dashboard shows real-time WAN monitoring, system health, and network performance.
