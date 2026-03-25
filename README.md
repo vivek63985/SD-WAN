@@ -1,24 +1,24 @@
 1. Project Title:
                         SD-WAN
-2. Description:
+## Description:
 This Project implements a Software-Defined Wide Area Network (SD-WAN) solution using OpenWrt-based embedded systems.
 It enables intelligent traffic routing, multi-WAN load balancing, failover mechanisms, and network optimization for improved performance and reliability.
 
-3. Features:
--> Multi-WAN Load Balancing
--> Automatic Failover
--> Policy-Based Routing (PBR)
--> Real-time Link Monitoring
--> Traffic Optimization
--> Web Interface Support
+## Features:
+- Multi-WAN Load Balancing
+- Automatic Failover
+- Policy-Based Routing (PBR)
+- Real-time Link Monitoring
+- Traffic Optimization
+- Web Interface Support
 
-4. Architecture:
--> OpenWrt Firmware
--> Multiple WAN Interfaces (Ethernet/LTE)
--> Routing & Load Balancing Engine
--> Monitoring & Control Layer
+## Architecture:
+-  OpenWrt Firmware
+-  Multiple WAN Interfaces (Ethernet/LTE)
+-  Routing & Load Balancing Engine
+-  onitoring & Control Layer
 
-5. Technologies Used:
+## Technologies Used:
 -> Embedded Linux (OpenWrt)
 -> C Programming
 -> Shell Scripting
